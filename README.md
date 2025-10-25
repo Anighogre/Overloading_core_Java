@@ -3,26 +3,26 @@
 This repository demonstrates various method overloading concepts in Core Java, including practical examples of constructor overloading, autoboxing, unboxing, var-args, and handling ambiguity in overloaded methods.
 
 <h3>📘 Topics Covered</h3><br><b>
-1️⃣ Ambiguity Issue in Overloading<br>
+1️⃣ Ambiguity Issue in Overloading:<br>
 Demonstrates cases where overloaded methods can cause ambiguity.<br>
 Explains how Java resolves method calls when multiple matching signatures exist.
 
-2️⃣ Autoboxing<br>
+2️⃣ Autoboxing:<br>
 Shows how primitive types are automatically converted to their wrapper classes in overloaded methods.
 
-3️⃣ Constructor Overloading<br>
+3️⃣ Constructor Overloading:<br>
 Illustrates how multiple constructors can be defined with different parameter lists to initialize objects in various ways.
 
-4️⃣ Method Overloading (26th Aug Lab)<br>
+4️⃣ Method Overloading:<br>
 Practical examples showing different scenarios of method overloading based on parameters and return types.
 
-5️⃣ Method Overloading (28th Aug Lab)<br>
+5️⃣ Method Overloading:<br>
 A use-case demonstrating a payment processing system implemented using method overloading.
 
-6️⃣ Unboxing<br>
+6️⃣ Unboxing:<br>
 Shows how wrapper classes are automatically converted back to primitive types in overloaded methods.
 
-7️⃣ Var-Args (Variable Arguments)<br>
+7️⃣ Var-Args (Variable Arguments):<br>
 Demonstrates how var-args (...) can be used for flexible parameter passing in overloaded methods.
 
 🧩 Concepts Practiced
